@@ -1,0 +1,10 @@
+function stairs(numbers) {
+    return 0;
+}
+
+//if __name__ == '__main__':
+//    # These "asserts" using only for self-checking and not necessary for auto-testing
+//    assert stairs((5, -3, -1, 2)) == 6, 'Fifth'
+//    assert stairs((5, 6, -10, -7, 4)) == 8, 'First'
+//    assert stairs((-11, 69, 77, -51, 23, 67, 35, 27, -25, 95)) == 393, 'Second'
+//    assert stairs((-21, -23, -69, -67, 1, 41, 97, 49, 27)) == 125, 'Third'
