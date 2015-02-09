@@ -1,3 +1,3 @@
-**Input:** Numbers on each stair as a tuple of integers. 
+**Input:** Numbers on stairs as a tuple of integers. 
 
-**Output:** The final sum for the best way as an integer.
+**Output:** The final sum for the best path as an integer.

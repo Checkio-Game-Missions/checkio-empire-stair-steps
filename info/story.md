@@ -1,3 +1,3 @@
-For emergency cases robots use staircases instead elevators.
-And sometimes we do training emergencies, but it's too boring.
-So we added little fun.
+In emergencies, robots will always use staircases instead elevators. 
+Sometimes we drill them in emergency scenarios, but often times it's a boring affair. 
+So we've added little fun to the mix.
