@@ -10,9 +10,9 @@ class Referee(RefereeCodeGolf):
     DEFAULT_MAX_CODE_LENGTH = 250
     BASE_POINTS = 25
     TESTS = TESTS
-    EXECUTABLE_PATH = settings.EXECUTABLE_PATH
-    CURRENT_ENV = settings_env.CURRENT_ENV
-    FUNCTION_NAME = "golf"
+    ENVIRONMENTS = settings_env.ENVIRONMENTS
+
+    DEFAULT_FUNCTION_NAME = "golf"
     CALLED_REPRESENTATIONS = {
         "python_3": representations.py_tuple_representation,
         "python_2": representations.py_tuple_representation,
