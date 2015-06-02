@@ -6,7 +6,3 @@ You can move either to the next step or to the next step plus one.
 You must find the best path to maximize the sum of numbers on the stairs on your way up and return the final sum.
 
 ![Stair-steps](stair-steps.svg)
-
-In this mission the main goal to make your code as short as possible.
-The shorter your code, the more points you earn.
-Your score for this mission is dynamic and directly related to the length of your code.
