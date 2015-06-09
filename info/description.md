@@ -6,12 +6,13 @@ You can move either to the next step or to the next step plus one.
 You must find the best path to maximize the sum of numbers on the stairs on your way up and return the final sum.
 
 ```      
-                    ___
-           _____   /   |
-          /     | | _____
-   ___   /     _____|  0
-  /   | | _____|  2 
- |   _____| -1
-_____| -3
- 0
+                         __
+                   __   /  |
+         ______   /  | | _____
+        /      | |  _____|  0
+   __  /      _____|  2 
+  /  ||  _____| -1
+ |  _____| -3
+____|  5
+  0  
 ```
