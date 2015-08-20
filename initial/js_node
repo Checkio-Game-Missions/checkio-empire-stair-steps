@@ -11,4 +11,5 @@ function golf(numbers){
 //     assert.equal(golf([5, 6, -10, -7, 4]), 8, "2nd example");
 //     assert.equal(golf([-11, 69, 77, -51, 23, 67, 35, 27, -25, 95]), 393, "3rd example");
 //     assert.equal(golf([-21, -23, -69, -67, 1, 41, 97, 49, 27]), 125, "4th example");
+//    console.log("All done? Earn rewards by using the 'Check' button!");
 //}
