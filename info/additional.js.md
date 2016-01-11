@@ -13,8 +13,8 @@ Any code length.
 
 **Rank2:**
 
-Your code should be shorter than 280 characters.
+Your code should be shorter than 250 characters.
 
 **Rank3:**
 
-Your code should be shorter than 180 characters.
+Your code should be shorter than 150 characters.
